@@ -1,19 +1,12 @@
-# BitWeb BMPN · Documentos de la entrega final
+## Documentos de la entrega final (BitWeb BMPN)
 
-Documentos del proyecto BitWeb (visor y editor de procesos BPMN multiempresa),
-Desarrollo Web, Pontificia Universidad Javeriana, 2026-30.
+| N.º | Documento | PDF |
+| --- | --- | --- |
+| 02 | Arquitectura C4 | [Ver](src/main/resources/static/docs/arquitectura-c4.pdf) |
+| 04 | Pruebas de carga | [Ver](src/main/resources/static/docs/pruebas-carga.pdf) |
+| 05 | Pruebas funcionales | [Ver](src/main/resources/static/docs/pruebas-funcionales.pdf) |
+| 06 | Pruebas unitarias y SonarQube | [Ver](src/main/resources/static/docs/pruebas-unitarias-sonarqube.pdf) |
+| 07 | Pruebas automatizadas | [Ver](src/main/resources/static/docs/pruebas-automatizadas.pdf) |
+| 08 | Roles y seguridad | [Ver](src/main/resources/static/docs/roles-seguridad.pdf) |
 
-| N.º | Documento |
-| --- | --- |
-| 02 | Arquitectura C4 |
-| 04 | Pruebas de carga |
-| 05 | Pruebas funcionales |
-| 06 | Pruebas unitarias y SonarQube |
-| 07 | Pruebas automatizadas |
-| 08 | Roles y seguridad |
-
-Cada documento está en Word (.docx) y en PDF.
-
-- Backend: https://github.com/andrXco/bmpn
-- Frontend: https://github.com/andrXco/bmpn-react
-- Wiki (Thymeleaf): https://github.com/andrXco/WikiWeb
+Wiki publicada: (URL de Render)
