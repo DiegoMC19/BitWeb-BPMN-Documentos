@@ -2,7 +2,9 @@
 
 | N.º | Documento | PDF |
 | --- | --- | --- |
+| 01 | Resumen ejecutivo | [Ver](resumen_ejecutivo.pdf) |
 | 02 | Arquitectura C4 | [Ver](arquitectura-c4.pdf) |
+| 03 | Guía de despliegue | [Ver](despliegue.pdf) |
 | 04 | Pruebas de carga | [Ver](pruebas-carga.pdf) |
 | 05 | Pruebas funcionales | [Ver](pruebas-funcionales.pdf) |
 | 06 | Pruebas unitarias y SonarQube | [Ver](pruebas-unitarias-sonarqube.pdf) |
