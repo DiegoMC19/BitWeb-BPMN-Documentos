@@ -9,3 +9,4 @@
 | 07 | Pruebas automatizadas | [Ver](pruebas-automatizadas.pdf) |
 | 08 | Roles y seguridad | [Ver](roles-seguridad.pdf) |
 
+Wiki en Thymeleaf: https://github.com/andrXco/WikiWeb
