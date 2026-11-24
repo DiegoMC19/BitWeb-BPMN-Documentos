@@ -9,4 +9,3 @@
 | 07 | Pruebas automatizadas | [Ver](pruebas-automatizadas.pdf) |
 | 08 | Roles y seguridad | [Ver](roles-seguridad.pdf) |
 
-Wiki publicada: (URL de Render)
