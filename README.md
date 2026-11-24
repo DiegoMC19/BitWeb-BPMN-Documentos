@@ -2,7 +2,7 @@
 
 | N.º | Documento | PDF |
 | --- | --- | --- |
-| 01 | Resumen ejecutivo | [Ver](resumen_ejecutivo.pdf) |
+| 01 | Resumen ejecutivo | [Ver](01_Resumen_Ejecutivo.pdf) |
 | 02 | Arquitectura C4 | [Ver](arquitectura-c4.pdf) |
 | 03 | Guía de despliegue | [Ver](despliegue.pdf) |
 | 04 | Pruebas de carga | [Ver](pruebas-carga.pdf) |
